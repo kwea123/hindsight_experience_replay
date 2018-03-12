@@ -11,7 +11,7 @@ The implementation includes :
 Check the "Training" cell to adjust training parameters and enable/disable HER.
 
 ## TODO
-- [ ] Optimize the way to concatenate transitions
+- [x] Optimize the way to concatenate transitions
 - [ ] Parallelize training
 - [x] Train on bit length > 30
 - [ ] Implement DDPG

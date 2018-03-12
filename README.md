@@ -5,7 +5,7 @@ This repository contains a tensorflow HER implementation and a bit flipping envi
 The implementation includes :
 1.  A DQN and a DDQN agent (which also works on other traditional [gym](https://gym.openai.com/) environments)
 2.  A bit flipping environment
-3.  pre-trained models for 30-bits and 40-bits flipping environments
+3.  Pre-trained models for 30-bits and 40-bits flipping environments
 
 ## Customize
 Check the "Training" cell to adjust training parameters and enable/disable HER.

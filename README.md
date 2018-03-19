@@ -8,7 +8,7 @@ The implementation includes :
     1.  A DQN and a DDQN agent (which also work on other traditional [gym](https://gym.openai.com/) environments)
     2.  A bit flipping environment
     3.  Pre-trained models for 30-bits, 40-bits and 50-bits flipping environments
-2. In `ChaseEnv.ipynb` :
+2. In `ChaseEnv_DDPG.ipynb` :
     1. A DDPG agent
     2. A `ChaseEnv` environment, where a chaser is initialized at a random position in
        a 2d plane and has to reach a goal in another random position within a certain threshold.

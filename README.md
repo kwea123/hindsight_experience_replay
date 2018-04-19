@@ -27,3 +27,8 @@ Check the "Training" cell to adjust training parameters and enable/disable HER.
 - [ ] Parallelize training
 - [x] Train on bit length > 30
 - [x] Implement DDPG
+
+## Extra
+[Here](https://github.com/kwea123/RL/blob/master/ai/unity_test/robot_arm/robot_arm_3d_ddpg_her_sparse.ipynb) is a link to a robot arm reach environment created in Unity, trained with [ML-Agents](https://github.com/Unity-Technologies/ml-agents).
+
+This environment is trained using DDPG with and without HER, and the comparison is plotted. DDPG+HER performs better.
